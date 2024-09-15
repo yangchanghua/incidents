@@ -58,4 +58,17 @@ cd incident-backend
 After server started, open http://localhost:8080/swagger-ui/index.html to check the Open API doc.
 
 
+# Dependencies used
 
+## lombok
+
+For easier Data model definition.
+
+## swagger-annotations
+Annotations used for documenting Open APIs.
+
+## springdoc-openapi-starter-webmvc-ui
+spring-boot starter for supporting Open API doc in spring-boot project.
+
+## karate-core and karate-junit5
+For writing automated integration tests.
