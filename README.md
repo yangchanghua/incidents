@@ -49,7 +49,7 @@ Open another bash window, go to the project folder and execute the commands:
 
 ```bash
 cd incident-backend
-
+./provision.sh
 ./run_karate.sh
 ```
 
